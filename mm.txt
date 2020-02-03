@@ -1,2 +1,6 @@
 body
-{font-siz : 50px; }
+{font-siz : 50px; 
+background :gray;
+text-align : center;
+
+}
