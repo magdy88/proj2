@@ -4,3 +4,6 @@ background :gray;
 text-align : center;
 
 }
+
+div 
+{ borde : 2px solid #f000;}
